@@ -1,4 +1,4 @@
-// código primeiro negocio
+// código primeiro exercicio
 clientes.forEach(element => {
     let nome = element.nome
     let format = nome.split(" ")
